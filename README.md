@@ -1,7 +1,9 @@
-Rhombix Technologies - Task 1
-Fibonacci Sequence Generator
-A versatile Python tool designed to compute the Fibonacci sequence and analyze its mathematical properties.
-Features
-Dual Logic: Implements both iterative and recursive generation methods.
-Data Analysis: Calculates the total sum and identifies prime numbers within the sequence.
-User Interface: Features a clean, enumerated terminal output with input validation.
+Fibonacci Generator – Python
+This project is developed as Task 1 of the Python Development Internship
+at Rhombix Technologies.
+Description
+This program generates the Fibonacci series up to n terms using Python.
+Concepts Used
+- Loops
+- Conditional statements
+- User input
