@@ -1,0 +1,16 @@
+Student Grade Tracker – Python
+This project is developed as a part of the Python Development Internship at Rhombix Technologies.
+
+Description
+A Python-based utility that automates the calculation of academic results. It collects marks for various subjects, computes the weighted percentage, and generates a formatted Student Grade Report with an assigned final grade.
+
+Key Features
+- Custom Subject Entries: Dynamically accepts any number of subjects.
+- Automatic Grading: Uses conditional logic to assign grades (A, B, C, or Fail).
+- Tabular Output: Displays a clean, structured summary of scores and percentages.
+
+Concepts Used
+- Dictionaries: For storing nested subject and score data.
+- Loops & Control Flow: For iterative data entry and grade categorization.
+- Input Handling: Casting user inputs into int and float for calculations.
+- F-String Formatting: For precise alignment and decimal rounding in the final report.
