@@ -1,0 +1,36 @@
+**Project Overview:**
+This project is a console-based Memory Puzzle Game developed as part of the Python Development Internship at Rhombix Technologies.
+The game challenges players to match pairs of shuffled cards within a set time limit. It enhances logical thinking, memory skills, and understanding of Python programming fundamentals.
+
+**Objective:**
+The objective of the game is to:
+Match all pairs of cards
+Complete the game within the given time limit
+Avoid selecting invalid or already revealed cards
+
+**Technologies & Concepts Used:**
+This project demonstrates the use of:
+Python Programming Language
+Lists and List Manipulation
+Loops (while loop)
+Conditional Statements
+Functions
+Exception Handling
+Random Module (for shuffling cards)
+Time Module (for countdown timer)
+Input Validation
+
+**How the Game Works**
+The game creates pairs of symbols.
+Cards are shuffled randomly.
+All cards are displayed face-down (*).
+The player selects two card indexes.
+If the symbols match:
+Cards remain revealed.
+If they do not match:
+Cards flip back after 2 seconds.
+The game ends when:
+All pairs are matched ✅
+OR
+
+The time limit expires ⏰
